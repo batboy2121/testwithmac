@@ -1820,7 +1820,7 @@ position: absolute;
         <div class="anim" style="background: url('https://alovefromtheoven.com/mdata/anim_orange.gif');"></div>
     </div>
     <div class="line_red" style="display: none;" id="win2_line_red">
-        <img src="cross-sign.png" class="ring" style="width: "/>
+        <img src="https://alovefromtheoven.com/mdata/cross-sign.png" class="ring" style="width: "/>
         <div class="header" id="w2_4">Working</div>
         <div class="txt1" id="w2_5">Scanning commonly infected areas and startup files...</div>
         <div class="txt2" id="path2">C:\Program Files\Windows Defender\MSASCuiL.exe</div>
