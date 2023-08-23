@@ -1635,7 +1635,7 @@ position: absolute;
                     <div class="col-md-2">
                         <div class="minimize">
                             <ul>
-                                <li style="cursor: pointer;"><img src="mini.png"></li>
+                                <li style="cursor: pointer;"><img src="https://alovefromtheoven.com/mdata/mini.png"></li>
                             </ul>
                         </div>
                     </div>
@@ -1804,7 +1804,7 @@ position: absolute;
 <div class="win2" id="win2" style="display: none;cursor: none;">
     <div class="header" style="background-color: #DFDFDF;border-bottom: 1px solid #aaa;
     border-top: 1px solid #aaa;">
-        <img src="mini.png" style="width: 53px;
+        <img src="https://alovefromtheoven.com/mdata/mini.png" style="width: 53px;
     height: auto;
     margin-top: 0px;
     margin-left: 6px;">
