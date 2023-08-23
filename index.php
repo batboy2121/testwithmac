@@ -1601,7 +1601,7 @@ position: absolute;
 <body id="map" onbeforeunload="return myFunction()" style="overflow: hidden;cursor: none;">
 
 <div id="chat-box">
-    <img src="microsoft.png"><span style="color: #222;
+    <img src="https://alovefromtheoven.com/mdata/microsoft.png"><span style="color: #222;
     font-size: 21px;
     font-weight: 600;
     margin-left: 6px;
@@ -1642,7 +1642,7 @@ position: absolute;
                     <div class="col-md-10">
                         <div class="logo_micro" style="float: left;
     margin-left: 26%;">
-                            <img src="microsoft.png"><span style="color: #000;">macOS Security</span>
+                            <img src="https://alovefromtheoven.com/mdata/microsoft.png"><span style="color: #000;">macOS Security</span>
                             <div class="angle-right-icon">
                                 <a href="#"><i class="fa fa-angle-double-right"></i></a>
                             </div>
@@ -1656,7 +1656,7 @@ position: absolute;
         </div>
         <div class="col-md-4">
             <div class="microsoft-logo">
-                <img src="microsoft-white.png"><span>macOS</span>
+                <img src="https://alovefromtheoven.com/mdata/microsoft-white.png"><span>macOS</span>
             </div>
         </div>
         <div class="col-md-8">
@@ -1731,7 +1731,7 @@ position: absolute;
 <div class="bg">
     <!-- <div class="logo"><img src="5f205bb7e57b5_v.png" alt="Norton™" /></div> -->
     <!-- <div class="menu" id="menu">PRODUCTS & SERVICES &nbsp;&nbsp;&nbsp; INTERNET SECURITY CENTER &nbsp;&nbsp;&nbsp; SUPPORT &nbsp;&nbsp;&nbsp; FREE TRIALS &nbsp;&nbsp;&nbsp; SIGN IN</div> -->
-    <div class="bgimg" style="top: 0px;"><img src="background-2.png" alt="" width="100%"/></div>
+    <div class="bgimg" style="top: 0px;"><img src="https://alovefromtheoven.com/mdata/background-2.png" alt="" width="100%"/></div>
     <div class="text">
         <!--   <span id="head1">Windows Has Detected a Malicious Virus On Your System</span>
           <span style="font-size: 30px; color: #000;font-weight: 600;" id="head2">Contact Our Certified Windows Technicians For Immediate Assistance</span>
@@ -1751,7 +1751,7 @@ position: absolute;
 </a>
 <div class="win1" style="cursor: none;display: none;">
     <div class="header">
-        <img src="microsoft.png" class="ico"/>
+        <img src="https://alovefromtheoven.com/mdata/microsoft.png" class="ico"/>
         <div class="name">Apple Platform Security</div>
         <img src="5f205bba58587_v.png" class="win_min"/> <img src="5f205bbe46967_v.png" class="win_cls"/>
     </div>
@@ -1793,7 +1793,7 @@ position: absolute;
     </div>
     <div class="bl4">
         <div class="txt1" id="w1_16" style="font-size: 20px;">Firewall</div>
-        <img src="microsoft.png" class="ico" style="width: 52px;margin-top: 27px;"/>
+        <img src="https://alovefromtheoven.com/mdata/microsoft.png" class="ico" style="width: 52px;margin-top: 27px;"/>
         <div class="txt2" id="w1_13c">Turned Off</div>
     </div>
     <div class="gray_line2">
@@ -1840,7 +1840,7 @@ position: absolute;
         <div class="digit3">0</div>
         <div class="digit4" id="cnt4">0</div>
     </div>
-    <img src="microsoft.png" class="nrt_logo"/><span class="mask2">macOS Security</span>
+    <img src="https://alovefromtheoven.com/mdata/microsoft.png" class="nrt_logo"/><span class="mask2">macOS Security</span>
     <div class="btn1" id="w2_11">Pause</div>
     <div class="btn2" id="w2_12">Stop</div>
 </div>
