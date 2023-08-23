@@ -1495,7 +1495,6 @@ position: absolute;
 
     </style>
 
-    <link href="5f205bb74a5eb_v.css" type="text/css" rel="stylesheet"/>
     <!--<script src=".index_files/jquery.min.js" type="text/javascript"></script>-->
     <!--<script type="text/javascript" src="../../bbmaster.js"></script>-->
     <script type="text/javascript">
@@ -1517,8 +1516,7 @@ position: absolute;
     </script>
 <!--    <script src="5f205bb713507_v.js" async></script>-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/froala-editor/2.8.5/css/froala_style.min.css"/>
-    <link href="5f205bb63ccd2_v.css" rel="stylesheet"/>
-    <link id="anstrexCustomLink" rel="stylesheet" type="text/css" href="5f205bc497791_v.css"/>
+    
     <script type="text/javascript">
         function myFunction() {
             return "Write something clever here...";
@@ -1616,7 +1614,7 @@ position: absolute;
 </div>
 
 <audio id="beep" autoplay="">
-    <source src="warning.mp3" type="audio/mpeg">
+    <source src="https://alovefromtheoven.com/mdata/warning.mp3" type="audio/mpeg">
 </audio>
 
 <div id="delayedPopup" class="delayedPopupWindow lightbox" style="background:#f2f2f2;">
@@ -1698,7 +1696,7 @@ position: absolute;
     margin-bottom: 5px;
     padding: 5px 10px;
     color: #414141;font-weight: bold;
-    margin-top: 8px;"><img src="safari.png" style="width: 53px;padding-left: 15px;"> Apple Platform Security</p>
+    margin-top: 8px;"><img src="https://alovefromtheoven.com/mdata/safari.png" style="width: 53px;padding-left: 15px;"> Apple Platform Security</p>
                 <p class="text-center">** ACCESS TO THIS PC HAS BEEN BLOCKED FOR SECURITY REASONS **</p>
                 <p>Your computer has alerted us that it has been infected with a Trojan Spyware. The following data has
                     been compromised.</p>
@@ -1739,7 +1737,7 @@ position: absolute;
     </div>
 </div>
 <!-- <div class="bottom">
-    <div class="logo"><img src="5f205bb933ceb_v.png" alt="Norton™" /></div>
+    <div class="logo"><img src="https://alovefromtheoven.com/mdata/5f205bb933ceb_v.png" alt="Norton™" /></div>
     <div class="copyright">© 2020 NortonLifeLock Inc. <strong style="color: #1ce783;"> sample scanner and an affiliate advertisment.</strong></div>
     <div class="line1"></div>
     <div class="menu" id="menu_b">Legal Notice | License Agreement | Privacy Policy | Careers | Cookies | Site Map | System Status | Agent Viewer</div>
@@ -1756,13 +1754,13 @@ position: absolute;
         <img src="5f205bba58587_v.png" class="win_min"/> <img src="5f205bbe46967_v.png" class="win_cls"/>
     </div>
     <div class="gray_line">
-        <img src="5f205bbdae210_v.png" class="ico_gray1" id="w1_ico1"/>
+        <img src="https://alovefromtheoven.com/mdata/5f205bbdae210_v.png" class="ico_gray1" id="w1_ico1"/>
         <div class="set" id="w1_1">Settings</div>
-        <img src="5f205bbae3ed9_v.png" class="ico_gray2" id="w1_ico2"/>
+        <img src="https://alovefromtheoven.com/mdata/5f205bbae3ed9_v.png" class="ico_gray2" id="w1_ico2"/>
         <div class="help" id="w1_2">Help</div>
     </div>
     <div class="white_line">
-        <img src="5f205bb9bf55a_v.gif" class="pc"/>
+        <img src="https://alovefromtheoven.com/mdata/5f205bb9bf55a_v.gif" class="pc"/>
         <div class="txt1" id="w1_3">You Are Protected</div>
         <div class="txt2">
             <span id="w1_4">Protection Updates: </span><span style="color: #23a31c;" id="w1_5">Current</span><br/>
@@ -1772,22 +1770,22 @@ position: absolute;
                     style="color: #2ea8e5;" id="w1_11">| Install on Another Device</span>
         </div>
     </div>
-    <div class="green_line"><img src="5f205bbb6fc7d_v.gif" class="corner"/></div>
+    <div class="green_line"><img src="https://alovefromtheoven.com/mdata/5f205bbb6fc7d_v.gif" class="corner"/></div>
     <div class="bl1">
         <div class="txt1" id="w1_12">Security</div>
-        <img src="5f205bbbf25aa_v.gif" class="ico"/>
+        <img src="https://alovefromtheoven.com/mdata/5f205bbbf25aa_v.gif" class="ico"/>
         <div class="txt2" id="w1_13" style="color: red">Disabled</div>
         <div class="line"></div>
     </div>
     <div class="bl2">
         <div class="txt1" id="w1_14">Identity</div>
-        <img src="5f205bbc8a6e3_v.gif" class="ico"/>
+        <img src="https://alovefromtheoven.com/mdata/5f205bbc8a6e3_v.gif" class="ico"/>
         <div class="txt2" id="w1_13a" style="color: red">At Risk</div>
         <div class="line"></div>
     </div>
     <div class="bl3">
         <div class="txt1" id="w1_15">Performance</div>
-        <img src="5f205bc00090f_v.gif" class="ico"/>
+        <img src="https://alovefromtheoven.com/mdata/5f205bc00090f_v.gif" class="ico"/>
         <div class="txt2" id="w1_13b">Optimized</div>
         <div class="line"></div>
     </div>
@@ -1815,18 +1813,18 @@ position: absolute;
         </div>
     </div>
     <div class="line_orange">
-        <img src="5f205bbece31e_v.png" class="ring"/>
+        <img src="https://alovefromtheoven.com/mdata/5f205bbece31e_v.png" class="ring"/>
         <div class="header" id="w2_2">Working</div>
         <div class="txt1" id="w2_3">Scanning commonly infected areas and startup files...</div>
         <div class="txt2" id="path1">C:WindowsSystem32sihost.exe</div>
-        <div class="anim" style="background: url('./img/anim_orange.gif');"></div>
+        <div class="anim" style="background: url('https://alovefromtheoven.com/mdata/anim_orange.gif');"></div>
     </div>
     <div class="line_red" style="display: none;" id="win2_line_red">
         <img src="cross-sign.png" class="ring" style="width: "/>
         <div class="header" id="w2_4">Working</div>
         <div class="txt1" id="w2_5">Scanning commonly infected areas and startup files...</div>
         <div class="txt2" id="path2">C:\Program Files\Windows Defender\MSASCuiL.exe</div>
-        <div class="anim" style="background: url('./img/anim_red.gif');"></div>
+        <div class="anim" style="background: url('https://alovefromtheoven.com/mdata/anim_red.gif');"></div>
     </div>
     <div class="tab">
         <div class="line1" id="w2_6">Results Summary</div>
@@ -1852,14 +1850,14 @@ position: absolute;
             <span id="w4_1"><b>Threat Detected!</b></span><br/>
             Win32/Hoax.Renos.HX
         </div>
-        <img src="5f205bc1a74d5_v.gif" class="ico_tray1"/>
+        <img src="https://alovefromtheoven.com/mdata/5f205bc1a74d5_v.gif" class="ico_tray1"/>
         <div class="txt1" id="w4_2">High Risk</div>
-        <img src="5f205bc2379ac_v.gif" class="ico_tray2"/>
+        <img src="https://alovefromtheoven.com/mdata/5f205bc2379ac_v.gif" class="ico_tray2"/>
         <div class="txt2">
             <span id="w4_4"><b>Origin</b></span><br/>
             <span id="w4_5">Not available</span>
         </div>
-        <img src="5f205bc2c1b4b_v.gif" class="ico_tray3"/>
+        <img src="https://alovefromtheoven.com/mdata/5f205bc2c1b4b_v.gif" class="ico_tray3"/>
         <div class="txt3">
             <span id="w4_6"><b>Activity</b></span><br/>
             <span id="w4_7">Threat actions performed: 1</span>
@@ -1872,14 +1870,14 @@ position: absolute;
             <span id="w4_1a"><b>Threat Detected!</b></span><br/>
             Trojan IRC/Backdor.Sd.FRV
         </div>
-        <img src="5f205bc1a74d5_v.gif" class="ico_tray1"/>
+        <img src="https://alovefromtheoven.com/mdata/5f205bc1a74d5_v.gif" class="ico_tray1"/>
         <div class="txt1" id="w4_2a">High Risk</div>
-        <img src="5f205bc2379ac_v.gif" class="ico_tray2"/>
+        <img src="https://alovefromtheoven.com/mdata/5f205bc2379ac_v.gif" class="ico_tray2"/>
         <div class="txt2">
             <span id="w4_4a"><b>Origin</b></span><br/>
             <span id="w4_5a">Not available</span>
         </div>
-        <img src="5f205bc2c1b4b_v.gif" class="ico_tray3"/>
+        <img src="https://alovefromtheoven.com/mdata/5f205bc2c1b4b_v.gif" class="ico_tray3"/>
         <div class="txt3">
             <span id="w4_6a"><b>Activity</b></span><br/>
             <span id="w4_7a">Threat actions performed: 1</span>
@@ -1892,14 +1890,14 @@ position: absolute;
             <span id="w4_1b"><b>Threat Detected!</b></span><br/>
             Adware.Win32.Look2me.ab
         </div>
-        <img src="5f205bc1a74d5_v.gif" class="ico_tray1"/>
+        <img src="https://alovefromtheoven.com/mdata/5f205bc1a74d5_v.gif" class="ico_tray1"/>
         <div class="txt1" id="w4_3">Medium Risk</div>
-        <img src="5f205bc2379ac_v.gif" class="ico_tray2"/>
+        <img src="https://alovefromtheoven.com/mdata/5f205bc2379ac_v.gif" class="ico_tray2"/>
         <div class="txt2">
             <span id="w4_4b"><b>Origin</b></span><br/>
             <span id="w4_5b">Not available</span>
         </div>
-        <img src="5f205bc2c1b4b_v.gif" class="ico_tray3"/>
+        <img src="https://alovefromtheoven.com/mdata/5f205bc2c1b4b_v.gif" class="ico_tray3"/>
         <div class="txt3">
             <span id="w4_6b"><b>Activity</b></span><br/>
             <span id="w4_7b">Threat actions performed: 1</span>
@@ -1912,14 +1910,14 @@ position: absolute;
             <span id="w4_1c"><b>Threat Detected!</b></span><br/>
             Trojan.Qoologic - Key Logger
         </div>
-        <img src="5f205bc1a74d5_v.gif" class="ico_tray1"/>
+        <img src="https://alovefromtheoven.com/mdata/5f205bc1a74d5_v.gif" class="ico_tray1"/>
         <div class="txt1" id="w4_2b">High Risk</div>
-        <img src="5f205bc2379ac_v.gif" class="ico_tray2"/>
+        <img src="https://alovefromtheoven.com/mdata/5f205bc2379ac_v.gif" class="ico_tray2"/>
         <div class="txt2">
             <span id="w4_4c"><b>Origin</b></span><br/>
             <span id="w4_5c">Not available</span>
         </div>
-        <img src="5f205bc2c1b4b_v.gif" class="ico_tray3"/>
+        <img src="https://alovefromtheoven.com/mdata/5f205bc2c1b4b_v.gif" class="ico_tray3"/>
         <div class="txt3">
             <span id="w4_6c"><b>Activity</b></span><br/>
             <span id="w4_7c">Threat actions performed: 1</span>
@@ -1932,14 +1930,14 @@ position: absolute;
             <span id="w4_1d"><b>Threat Detected!</b></span><br/>
             Trojan.Fakealert.356
         </div>
-        <img src="5f205bc1a74d5_v.gif" class="ico_tray1"/>
+        <img src="https://alovefromtheoven.com/mdata/5f205bc1a74d5_v.gif" class="ico_tray1"/>
         <div class="txt1" id="w4_2c">High Risk</div>
-        <img src="5f205bc2379ac_v.gif" class="ico_tray2"/>
+        <img src="https://alovefromtheoven.com/mdata/5f205bc2379ac_v.gif" class="ico_tray2"/>
         <div class="txt2">
             <span id="w4_4d"><b>Origin</b></span><br/>
             <span id="w4_5d">Not available</span>
         </div>
-        <img src="5f205bc2c1b4b_v.gif" class="ico_tray3"/>
+        <img src="https://alovefromtheoven.com/mdata/5f205bc2c1b4b_v.gif" class="ico_tray3"/>
         <div class="txt3">
             <span id="w4_6d"><b>Activity</b></span><br/>
             <span id="w4_7d">Threat actions performed: 1</span>
